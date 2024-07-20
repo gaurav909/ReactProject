@@ -1,8 +1,12 @@
+import Toggle from "./toggle/Toggle"
 
 
 const App = () => {
   return (
-    <div>App</div>
+    <section className="container">
+      <Toggle/>
+
+    </section>
   )
 }
 
